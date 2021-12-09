@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+
+.nav-item{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-family: "Trirong", serif;
+}
+.navbar-nav{
+  margin-left: auto;
+  margin-right: 3px;
+}
+.rounded{
+  height: 400px;
+  margin: 13px;
+  margin-left: 155px;
+}
+
+.inputfields{
+  margin-left: 2em;
+ margin-bottom: 0.7em;
+ margin-top: 1em;
+}
+
+
+label,.label{
+  font-weight: bold;
+}
+
+.out-div{
+  text-align: center;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: x-large;
+}
